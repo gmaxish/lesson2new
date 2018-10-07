@@ -21,5 +21,5 @@ public class Treugol {
         S = (float) 0.5 * (a * b);
         System.out.println("Гипотенуза =" + hypotenuza);
         System.out.println("Периметр =" + P);
-        System.out.println("Площадь =" +
+        System.out.println("Площадь =" + S);
 }
